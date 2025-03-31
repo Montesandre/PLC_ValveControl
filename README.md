@@ -1,6 +1,6 @@
   # Documentação
--> Simulação com um código em Structured Text (ST) para controlar uma válvula com base na temperatura de um sensor, seguindo a lógica de histerese (70°C para ligar e 65°C para desligar) para o seguinte desafio prático: Escreva um código em Structured Text que acione uma válvula quando a temperatura de um sensor atingir 70°C e a desligue quando estiver abaixo de 65°C.
-# Explicação, abaixo
+-> Simulação com um código em Structured Text (ST) para controlar uma válvula com base na temperatura de um sensor, seguindo a lógica de histerese (70°C para ligar e 65°C para desligar), isto é um teste prático:
+# Explicação
 1- Variáveis:
 
 TemperatureSensor: Valor atual da temperatura (entrada do sensor).

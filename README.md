@@ -1,6 +1,6 @@
   # Documentação
 -> Simulação com um código em Structured Text (ST) para controlar uma válvula com base na temperatura de um sensor, seguindo a lógica de histerese (70°C para ligar e 65°C para desligar): (Codigo em processo em outro aqrquivo)
-Explicação, abaixo
+# Explicação, abaixo
 1- Variáveis:
 
 TemperatureSensor: Valor atual da temperatura (entrada do sensor).
